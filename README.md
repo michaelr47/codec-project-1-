@@ -1,6 +1,6 @@
 # codec-project-1-
 /*Hello! I made this on codecademy, no changes
-First codec project, kelvin weather
+First codecademy project, kelvin weather
 Let’s convert Kelvin to Celsius, then to Fahrenheit. */
 
 // kelvin is now equal to 293 
