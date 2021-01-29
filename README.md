@@ -1,6 +1,6 @@
 # codec-project-1-
 Hello! I made this on codecademy, no changes
-First codec project, kelvin weather
+First codec project on intro js, kelvin weather
 
 // kelvin is now equal to 293 
 const kelvin = 0;
